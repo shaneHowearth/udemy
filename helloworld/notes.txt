@@ -1,0 +1,8 @@
+vim-packages are either Executable or Reusable (eg. libs)
+
+The package name determines if it is executable or not.
+package main is the only way to create an executable
+
+Any other name means we are creating a dependency
+
+
